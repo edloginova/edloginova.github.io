@@ -1,9 +1,9 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-skills: "Web Developer - Graphic Artist - User Experience Designer"
+title: Kate Loginova
+email: kate@rebels.media
+url: https://joealato.github.io
+description: "I am Kate Loginova, a student of Artificial Intelligence Master program in KU Leuven. I am looking for a job, internship or an interesting collaboration."
+skills: "Artificial Intelligence - Natural Language Processing - Data Science"
 meta_author: LastName FirstName
 
 # Google webmaster tools
@@ -33,7 +33,7 @@ color:
 footer:
   copyright: Dr. Henry Jekyll
   location: Location
-  social: Around the Web
+  social: Social networks
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -50,7 +50,7 @@ address:
   - line: 3000 Leuven, Belgium
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This site is created with <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
