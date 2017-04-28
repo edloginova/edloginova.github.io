@@ -3,8 +3,9 @@ layout: default
 modal-id: 3
 img: circus.png
 alt: image-alt
-client: Start Bootstrap
+client: Vrije Universiteit Brussel
 category: Sentiment Analysis
-description: Also known as opinion mining.
+description: Also known as opinion mining, this is an essential element of text analysing systems. The goal is to understand the mood of the text: is it positive or negative? A more fine-grained analysis includes extracting an emotion - anger, suprise, happiness, etc. I am currently doing a thesis internship in Vrije Universite Brussel, Artifical Intelligence laboratory.
+Our team is working on creating a labeled corpus consisting of comments to newspaper articles on climate change. We are going to compare existing sentiment analysis tools, as well as create our own models.
 
 ---

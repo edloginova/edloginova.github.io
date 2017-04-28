@@ -4,6 +4,6 @@ modal-id: 2
 img: cake.png
 alt: image-alt
 category: Education
-description: 
+description: I am passionate about developing new standars for STEM education. Online education is giving access to high quality education content to all people despite their background or financial resources. I believe that artificial intelligence can aid studying process. We can use chatbots to interact with students, remind them about their tasks and answer their questions. Another idea is to track their progress by creating analytical dashboards and help them build an optimal learning track.
 
 ---

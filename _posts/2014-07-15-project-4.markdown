@@ -4,6 +4,7 @@ modal-id: 4
 img: game.png
 alt: image-alt
 category: Information Extraction
-description: 
+description: Transforming an unstructed text into a neat list of entities (people, organizations) mentiones and their relations is an exciting and challenging task. I have started working with information extraction problems during my bachelor.
+My thesis included creating a prototype of system that extracts certain events from news on oil industry companies.
 
 ---
