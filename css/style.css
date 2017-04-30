@@ -1,6 +1,6 @@
 body {
     background: white;
-	background-image: url("https://cdn.shutterstock.com/shutterstock/videos/15747700/thumb/1.jpg?i10c=img.resize(height:160)");
+	background-image: url("../img/background.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed; 
     color: #757575;
