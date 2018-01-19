@@ -4,7 +4,7 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed; 
     color: #757575;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     letter-spacing: 2px;
     padding-bottom: 60px;
 }
@@ -38,12 +38,14 @@ h1 {
     text-transform: uppercase;
     color: #000;
     margin: 0;
+	font-family: 'Maven Pro', sans-serif;
 }
 
 h2 {
     font-size: 1.2em;
     background: #fcfcfc;
     padding: 10px;
+	font-family: 'Maven Pro', sans-serif;
 }
 
 h3 {
