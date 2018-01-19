@@ -3,9 +3,8 @@ body {
 	background-image: url("../img/background.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed; 
-    color: #757575;
+    color: #303030;
     font-family: 'Source Sans Pro', sans-serif;
-    letter-spacing: 2px;
     padding-bottom: 60px;
 }
 
@@ -33,45 +32,62 @@ hr {
 }
 
 h1 {
-    font-size: 1.4em;
+    font-size: 1.7em;
     font-weight: bolder;
     text-transform: uppercase;
     color: #000;
     margin: 0;
 	font-family: 'Maven Pro', sans-serif;
+	margin: 5px;
 }
 
 h2 {
-    font-size: 1.2em;
-    background: #fcfcfc;
+    font-size: 1.5em;
     padding: 10px;
 	font-family: 'Maven Pro', sans-serif;
 }
 
 h3 {
-    font-size: 1em;
+    font-size: 1.2em;
+    font-weight: bolder;
     text-transform: uppercase;
     color: #000;
     margin-top: 0;
+	letter-spacing: 1px;
 }
 
 h4 {
     font-size: 1em;
     margin: 15px 0 0;
+    font-weight: bolder;
+    color: #000;
+	
 }
 
-p,
+p
+{
+    line-height: 1.7em;
+    font-weight: normal;
+    font-size: 14px;
+}
+
 a {
     line-height: 1.7em;
-    font-weight: lighter;
-    letter-spacing: 1px;
-    font-size: 12px;
+    font-weight: normal;
+    font-size: 14px;
+	color: #1496BB;
+	border-bottom: 3px;
+}
+
+a:hover {
+    border-bottom: solid 3px #1496BB;
+	text-decoration: none;
+	color: #0D3D56;
 }
 
 li {
     padding: 7px 0;
 }
-
 .dl-share .btn {
     min-width: 120px;
 }
@@ -98,7 +114,7 @@ li {
 }
 
 .sub {
-    margin-bottom: 15px;
+    margin: 10px;
 }
 
 .award {
