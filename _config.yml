@@ -8,7 +8,7 @@ meta_author: Loginova Ekaterina
 theme: minima
 # Google webmaster tools
 google_verify:
-
+baseurl:/
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
