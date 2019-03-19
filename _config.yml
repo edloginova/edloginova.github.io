@@ -5,7 +5,7 @@ url: https://joealato.github.io
 description: "I am Kate Loginova, a student of Artificial Intelligence Master program in KU Leuven. I am looking for a job, internship or an interesting collaboration."
 skills: "Artificial Intelligence - Natural Language Processing - Data Science"
 meta_author: Loginova Ekaterina
-
+theme: minima
 # Google webmaster tools
 google_verify:
 
@@ -20,7 +20,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: edloginova
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -49,7 +49,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3000 Leuven, Belgium
+  - line: 9000 Gent, Belgium
 
 # Credits content
 credits: 'This site is created with <a href="http://startbootstrap.com">Start Bootstrap</a>.'
