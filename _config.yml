@@ -10,7 +10,7 @@ relative_permalinks: true
 # Setup
 title:               Jekyll Example
 tagline:             Basic example of a Jekyll site with Sass enabled.
-url:                 https://edloginova.github.io
+url:                 http://edloginova.github.io
 baseurl:             /
 
 # Assets

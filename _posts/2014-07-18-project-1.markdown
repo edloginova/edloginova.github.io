@@ -1,9 +1,0 @@
----
-layout: default
-modal-id: 1
-img: cabin.png
-alt: image-alt
-category: Music Perception
-description: I am going to join a great team of Belgian startup Musimap for a summer internship. They are developing a scalable, market ready music intelligence platform that will provide clients with personalized content. My work will concern sentiment analysis of lyrics to enhance the granular proprietary database with the information encoded in words of the songs. 
-
----

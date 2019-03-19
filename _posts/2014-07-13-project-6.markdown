@@ -1,9 +1,0 @@
----
-layout: default
-modal-id: 6
-img: submarine.png
-alt: image-alt
-category: Digital Media
-description: Recent challenges in machine learning community were concerned with detecting fake and biased news.
-I am currently working on a seed-stage system that will generate a knowledge graph out of social media and news streams. Such a system can be used by news agencies to speed up analytical work, or by news readers to get a better understanding of current events.
----
