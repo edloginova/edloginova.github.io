@@ -54,6 +54,9 @@ address:
 # Credits content
 credits: 'This site is created with <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
+sass:
+  sass_dir:          _scss
+  style:            :compressed
 # Build settings
 markdown: kramdown
 permalink: pretty
