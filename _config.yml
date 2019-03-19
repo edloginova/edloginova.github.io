@@ -3,9 +3,9 @@ highlighter:         pygments
 title: Kate Loginova
 email: ekaterina.d.loginova@gmail.com
 url: https://edloginova.github.io
-description: "I am Kate Loginova, a student of Artificial Intelligence Master program in KU Leuven. I am looking for a job, internship or an interesting collaboration."
+description: "I am Kate, a PhD student in educational data mining. Also a graduate of Artificial Intelligence Advanced Master program in KU Leuven. If you are open for an interesting collaboration, let me know!"
 skills: "Artificial Intelligence - Natural Language Processing - Data Science"
-meta_author: Loginova Ekaterina
+meta_author: Ekaterina Loginova
 theme: minima
 # Contact form:
 # - static : pass through formspree.io to validate email sending
@@ -46,8 +46,8 @@ disqus_shortname: edloginova
 permalink:           pretty
 
 # Setup
-title:               Jekyll Example
-tagline:             Basic example of a Jekyll site with Sass enabled.
+title:               Kate Loginova
+tagline:             natural language processing & educational data mining
 url:                 http://edloginova.github.io
 baseurl:             /
 
