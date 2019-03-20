@@ -1,8 +1,7 @@
 # Syntax highlighting
-highlighter:         pygments
+highlighter: pygments
 title: Kate Loginova
 email: ekaterina.d.loginova@gmail.com
-url: https://edloginova.github.io
 description: "I am Kate, a PhD student in educational data mining at Ghent University. Also a graduate of Artificial Intelligence Advanced Master program in KU Leuven. If you are open for an interesting collaboration, let me know!"
 skills: "Artificial Intelligence - Natural Language Processing - Data Science"
 meta_author: Ekaterina Loginova
@@ -13,12 +12,59 @@ theme: minima
 # - comment the line below if you want to stick with the default PHP contact form
 contact: disqus
 
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
   primary-rgb: "24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 # Footer settings
 footer:
@@ -49,4 +95,4 @@ permalink:           pretty
 title:               Kate Loginova
 tagline:             natural language processing & educational data mining
 url:                 http://edloginova.github.io
-baseurl:             /
+baseurl:             ""
