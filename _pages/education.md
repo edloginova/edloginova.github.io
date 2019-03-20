@@ -3,51 +3,66 @@ title: "Education"
 permalink: /education/
 ---
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+During my studies, I have faced challenging academic tasks while working both alone and in a team. A fast pace of education taught me to meet strict deadlines while working on complex problems.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+# Degrees
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## PhD
+2018 - now. [Gent University](https://www.ugent.be/eb/mio/en/research/dataanalytics)
+Educational data mining and learning analytics.  A teaching assistant for the course "Data Mining".
+Data Analytics team. Supervisor: [Prof Dr Dries Benoit](https://telefoonboek.ugent.be/en/people/802000080565).
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Advanced MSc in Artificial Intelligence
+2016 - 2017. [KU Leuven](https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_50268936.htm#activetab=diploma_omschrijving)
+Cum laude. Speech and Language Technology option. 
+**Courses:** Machine Learning (19/20), Natural Language Processing, Text Based Information Retreieval, Support Vector Machines, Artificial Neural Networks, Language Engineering Applications, Speech Recognition, Prolog.
+**Thesis:** Sentiment Analysis of news (machine learning). Promot: [Prof Dr Marie-Francine Moens](https://www.kuleuven.be/wieiswie/en/person/00012108).
+						
+## BSc in Applied Mathematics and Information Science</h4>
+2011 - 2015. [National Research University Higher School of Economics](https://cs.hse.ru/en)
+Average grade: 8/10. Ranked 10th out of 58 students.
+**Courses:** Algorithms and Data Structures, Data Analysis, Database Theory, Semantic Web, Automatic Text Processing, Statistical Simulation and Analysis, Predictive Modeling, Applied Graph Theory, Theory of Decision Making, Probability Theory and Mathematical Statistics, Calculus, Linear Algebra, Numerical Methods, Game Theory.
+**Thesis:** Information Extraction from news (rule-based). Supervisor: [Prof Dr Elena I. Bolshakova](https://www.hse.ru/en/staff/eibolshakova/)
+
+# Certificates
+
+## Probabilistic Graphical Models
+### 1: Representation
+2019. Stanford University.
+Grade: 94.5%.
+
+## Introduction to Machine Learning</h4>
+2016. Higher School of Economics in cooperation with Yandex.
+Grade 100%. [Statement of Accomplishment](https://www.coursera.org/account/accomplishments/certificate/VAQFB5Q8VAAX).
+numpy. pandas. scikit-learn. Decision trees. Linear and metric methods of classification. Gradient descent. Support vector machines. Logistic regression. Linear regression. PCA. SVM. Random forests. Neural nets.
+
+## R Programming
+2016. Johns Hopkins University.
+Grade: 80.0%.
+
+## Practical Machine Learning
+2016. Johns Hopkins University
+Grade: 97.6% (with Distinction).	
+
+## The Data Scientist’s Toolbox
+2016. Johns Hopkins University
+Grade: 100% (with Distinction).	
+
+## Data Science and Machine Learning Essentials
+2015. Microsoft.
+Grade: 77%. [Verified Certificate of Achievement](https://courses.edx.org/certificates/user/6917256/course/course-v1:Microsoft+DAT203x+1T2016).
+
+## Machine Learning
+2014. Stanford University.
+Grade 100%. [Statement of Accomplishment](https://www.coursera.org/maestro/api/certificate/get_certificate?course_id=972303).
+Linear Regression. Logistic Regression. Neural Networks. Support Vector Machines. K-means Clustering. Principal Components Analysis. Anomaly Detection. Collaborative Filtering.
+
+## Data Analysis and Statistical Inference
+2014. Duke University.
+Grade 94%. [Verified certificate with distinction](https://www.coursera.org/account/accomplishments/certificate/3PAMKT7BYT).
+Probability and distributions. Confidence intervals. Hypothesis tests. Decision errors, significance, and confidence. Inference for numerical and categorical variables. Multiple linear regression.
+
+## Automata
+2014. Stanford University.
+Grade: 83.7% (with Distinction). [Statement of Accomplishment](https://www.coursera.org/api/legacyCertificates.v1/spark/statementOfAccomplishment/972892~2742932/pdf).
+	

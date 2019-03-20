@@ -2,7 +2,7 @@
 highlighter: pygments
 title: Kate Loginova
 email: ekaterina.d.loginova@gmail.com
-description: "I am Kate, a PhD student in educational data mining at Ghent University. Also a graduate of Artificial Intelligence Advanced Master program in KU Leuven. If you are open for an interesting collaboration, let me know!"
+description: "I am Kate, a PhD student in educational data mining at Ghent University. I also work on natural language processing and digital journalism. If you want to collaborate, let me know!"
 skills: "Artificial Intelligence - Natural Language Processing - Data Science"
 meta_author: Ekaterina Loginova
 theme: minima
@@ -90,9 +90,6 @@ disqus_shortname: edloginova
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-
-# Setup
-title:               Kate Loginova
 tagline:             natural language processing & educational data mining
 url:                 http://edloginova.github.io
 baseurl:             ""
