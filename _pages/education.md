@@ -9,19 +9,27 @@ During my studies, I have faced challenging academic tasks while working both al
 
 ## PhD
 2018 - now. [Gent University](https://www.ugent.be/eb/mio/en/research/dataanalytics)
+
 Educational data mining and learning analytics.  A teaching assistant for the course "Data Mining".
+
 Data Analytics team. Supervisor: [Prof Dr Dries Benoit](https://telefoonboek.ugent.be/en/people/802000080565).
 
 ## Advanced MSc in Artificial Intelligence
 2016 - 2017. [KU Leuven](https://onderwijsaanbod.kuleuven.be/opleidingen/e/CQ_50268936.htm#activetab=diploma_omschrijving)
+
 Cum laude. Speech and Language Technology option. 
+
 **Courses:** Machine Learning (19/20), Natural Language Processing, Text Based Information Retreieval, Support Vector Machines, Artificial Neural Networks, Language Engineering Applications, Speech Recognition, Prolog.
+
 **Thesis:** Sentiment Analysis of news (machine learning). Promot: [Prof Dr Marie-Francine Moens](https://www.kuleuven.be/wieiswie/en/person/00012108).
 						
-## BSc in Applied Mathematics and Information Science</h4>
+## BSc in Applied Mathematics and Information Science
 2011 - 2015. [National Research University Higher School of Economics](https://cs.hse.ru/en)
+
 Average grade: 8/10. Ranked 10th out of 58 students.
+
 **Courses:** Algorithms and Data Structures, Data Analysis, Database Theory, Semantic Web, Automatic Text Processing, Statistical Simulation and Analysis, Predictive Modeling, Applied Graph Theory, Theory of Decision Making, Probability Theory and Mathematical Statistics, Calculus, Linear Algebra, Numerical Methods, Game Theory.
+
 **Thesis:** Information Extraction from news (rule-based). Supervisor: [Prof Dr Elena I. Bolshakova](https://www.hse.ru/en/staff/eibolshakova/)
 
 # Certificates
@@ -31,10 +39,13 @@ Average grade: 8/10. Ranked 10th out of 58 students.
 2019. Stanford University.
 Grade: 94.5%.
 
-## Introduction to Machine Learning</h4>
+## Introduction to Machine Learning
 2016. Higher School of Economics in cooperation with Yandex.
+
 Grade 100%. [Statement of Accomplishment](https://www.coursera.org/account/accomplishments/certificate/VAQFB5Q8VAAX).
-numpy. pandas. scikit-learn. Decision trees. Linear and metric methods of classification. Gradient descent. Support vector machines. Logistic regression. Linear regression. PCA. SVM. Random forests. Neural nets.
+
+numpy. pandas. scikit-learn. Decision trees. Linear and metric methods of classification. Gradient descent. Support vector machines. Logistic regression. Linear regression. PCA.
+ SVM. Random forests. Neural nets.
 
 ## R Programming
 2016. Johns Hopkins University.
