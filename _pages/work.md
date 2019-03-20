@@ -11,7 +11,7 @@ permalink: /work/
 **Other skills:** Linux, NLTK, Stanford CoreNLP, MySQL, MongoDB, Whoosh, PyTorch, Jupyter Notebook, LaTeX, Git, Bootstrap, Flask, HTML, CSS, Javascript
 			   
 ## Deep learning for Question Answering (QA)
-*[DFKI MLT](https://www.dfki.de/web/research/mlt)*
+*Oct 2017 - Aug 2018. [DFKI MLT](https://www.dfki.de/web/research/mlt)*
 
 I worked on non-factoid multilingual (including code-mixed) QA. I have also developed an interactive prototype that demonstrates inner representations of an LSTM model for a better understanding of the network decision making process.
 
@@ -22,7 +22,7 @@ I worked on non-factoid multilingual (including code-mixed) QA. I have also deve
 * Ekaterina Loginova, Stalin Varanasi, Günter Neumann. [Towards Multilingual Neural Question Answering](https://link.springer.com/chapter/10.1007/978-3-030-00063-9_26). 1st International Workshop on Artificial Intelligence for Question Answering, Communications in Computer and Information Science (Springer). Budapest, Hungary, 2018
 
 ## Internship
-*[Vrije Universiteit Brussel](https://ai.vub.ac.be/)*
+*Feb - June 2017. [Vrije Universiteit Brussel](https://ai.vub.ac.be/)*
 
 I have
 * organized corpus annotation for sentiment analysis (comments to "The Guardian" articles on climate change)
