@@ -18,7 +18,7 @@ Neverwinter Nights, Age of Empires, Lineage II, Warcraft III, Majesty 2, The Wit
 
 # <i class="fa fa-bookmark"></i> Books
 
-Mark Twain, Terry Pratchett, Max Fry, Jerome K. Jerome, "The Fall", "The Gods Themselves", "Roadside Picnic", "Hard to Be a God", "Flowers for Algernon", "Woman's Portrait", "Notes of a Young Doctor", "The Catcher in the Rye","All Quiet on the Western Front", "Middle Sex", "White Guard"
+Mark Twain, Terry Pratchett, Max Fry, Jerome K. Jerome, "The Fall", "The Gods Themselves", "Roadside Picnic", "Hard to Be a God", "Flowers for Algernon", "A Woman's Portrait", "Notes of a Young Doctor", "The Catcher in the Rye", "All Quiet on the Western Front", "Middle Sex", "White Guard"
 
 # <i class="fa fa-quote-left"></i> Quotes
 
