@@ -1,7 +1,6 @@
 ---
 title: "Work"
 permalink: /work/
-order: 2
 ---
 ## Skills
 

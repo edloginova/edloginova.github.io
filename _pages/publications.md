@@ -1,7 +1,6 @@
 ---
 title: "Papers"
 permalink: /papers/
-order: 4
 ---
 
 ### <i class="fe fe-chevron-right"></i> A Graph-Based Approach for Learner-Tailored Teaching of Korean Grammar Constructions 

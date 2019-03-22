@@ -1,7 +1,6 @@
 ---
 title: "Education"
 permalink: /education/
-order: 3
 ---
 
 # Degrees
