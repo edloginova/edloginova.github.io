@@ -11,7 +11,7 @@ order: 2
 
 **Other skills:** Linux, NLTK, Stanford CoreNLP, MySQL, MongoDB, Whoosh, PyTorch, Jupyter Notebook, LaTeX, Git, Bootstrap, Flask, HTML, CSS, Javascript
 		
-## <i class="fa fa-lightbulb"></i> Experience
+## <i class="fa fa-wrench"></i> Experience
 		
 ### Deep learning for Question Answering (QA)
 *Oct 2017 - Aug 2018. [DFKI MLT](https://www.dfki.de/en/web/research/research-departments-and-groups/multilinguality-and-language-technology/)*
