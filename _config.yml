@@ -81,3 +81,9 @@ minima:
     instagram: joealato
     linkedin: edloginova
     telegram: edloginova
+    
+social_research:
+- {icon: 'researchgate', link: 'https://www.researchgate.net/profile/Ekaterina_Loginova2'}
+- {icon: 'google-scholar', link: 'https://scholar.google.ru/citations?hl=ru&user=PcfhhPQAAAAJ'}
+- {icon: 'coursera', link: 'https://www.coursera.org/user/26c01e5fb55cff1cfd9cd458ed29f29b'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0002-0952-9213'}
