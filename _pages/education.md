@@ -1,9 +1,8 @@
 ---
 title: "Education"
 permalink: /education/
+order: 3
 ---
-
-During my studies, I have faced challenging academic tasks while working both alone and in a team. A fast pace of education taught me to meet strict deadlines while working on complex problems.
 
 # Degrees
 
