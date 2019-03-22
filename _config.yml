@@ -52,7 +52,9 @@ color:
   secondary-dark: 233140 #A2122F
 
 # Plugins
+
 plugins:
+  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
