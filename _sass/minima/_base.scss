@@ -106,15 +106,14 @@ h1, h2, h3, h4, h5, h6 {
 a {
   color: $brand-color;
   text-decoration: none;
-  padding: 2px;
+  border-bottom: 3px solid transparent;
 
   &:visited {
     color: darken($brand-color, 15%);
   }
 
   &:hover {
-    color: white;
-	background-color: $brand-color;
+	border-bottom: 3px solid $brand-color;
   }
 
   .social-media-list &:hover {
