@@ -21,7 +21,7 @@ Cum laude. Speech and Language Technology option.
 
 **Courses:** Machine Learning (19/20), Natural Language Processing, Text Based Information Retreieval, Support Vector Machines, Artificial Neural Networks, Language Engineering Applications, Speech Recognition, Prolog.
 
-**Thesis:** Sentiment Analysis of news (machine learning). Promot: [Prof Dr Marie-Francine Moens](https://www.kuleuven.be/wieiswie/en/person/00012108).
+**Thesis:** Sentiment Analysis of news (machine learning). Promotor: [Prof Dr Marie-Francine Moens](https://www.kuleuven.be/wieiswie/en/person/00012108).
 						
 ### BSc in Applied Mathematics and Information Science
 *2011 - 2015. [National Research University Higher School of Economics](https://cs.hse.ru/en)*
