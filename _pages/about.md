@@ -4,6 +4,8 @@ permalink: /about/
 order: 5
 ---
 
+![alt text](https://miro.medium.com/fit/c/240/240/1*wjCESqwXSODv21OTsomBqQ.jpeg)
+
 # <i class="fa fa-headphones"></i> Music
 
 alternative, rock, indie, grunge, punk-rock, folk-rock, rock-n-roll, Dorothy, Editors, Miracle of Sound, The Baseballs, Shinedown, Garbage, The Vitamin String Quartet, Elvis Presley, Fool's Garden, Sin Shake Sin, The Irish Rovers, Depeche Mode, Fall Out Boy, Panic! At The Disco, VNV Nation, The Offspring, Linkin Park, Thousand Foot Krutch, Papa Roach, Dave Gahan, Мельница, Сплин, Наутилус Помпилиус, Пикник, Мумий Тролль, Хелависа, Канцлер Ги, Земфира, Вероника Долина, Башня Rowan
