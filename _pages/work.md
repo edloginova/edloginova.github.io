@@ -28,7 +28,7 @@ I worked on non-factoid multilingual (including code-mixed) QA. I have also deve
 *February - June 2017. [Vrije Universiteit Brussel](https://ai.vub.ac.be/)*
 
 I have
-* organized **corpus annotation** for sentiment analysis (comments to "The Guardian" articles on climate change)
+* organized corpus annotation for sentiment analysis (comments to "The Guardian" articles on climate change)
 * extracted linguistic features and tested their influence on performance
 * trained machine learning models (Support Vector Machines, Maximum Entropy, Naive Bayes)
 * compared existing sentiment analysis tools (Stanford CoreNLP, Vader, Pattern, Polyglot)
@@ -38,7 +38,7 @@ I have
 
 Course [Social Network Analysis](https://cs.hse.ru/ai/magolego/sna) (in English). 
 
-**Topics:** graph analysis; with the use of software for creating a graph of connections extracted from the **social network** account. **Responsibilities:** I compiled an up-to-date list of resources and prepared handouts for **exercise sessions in R**. I have also checked solutions and provided feedback to help students.			   
+Topics: graph analysis; with the use of software for creating a graph of connections extracted from the **social network** account. Responsibilities: I compiled an up-to-date list of resources and prepared handouts for **exercise sessions in R**. I have also checked solutions and provided feedback to help students.			   
 
 ### Summer Internship
 
