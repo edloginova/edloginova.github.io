@@ -43,8 +43,7 @@ Grade: 94.5%.
 
 Grade 100%. [Statement of Accomplishment](https://www.coursera.org/account/accomplishments/certificate/VAQFB5Q8VAAX).
 
-numpy. pandas. scikit-learn. Decision trees. Linear and metric methods of classification. Gradient descent. Support vector machines. Logistic regression. Linear regression. PCA.
- SVM. Random forests. Neural nets.
+numpy. pandas. scikit-learn. Decision trees. Linear and metric methods of classification. Gradient descent. Support vector machines. Logistic regression. Linear regression. PCA. SVM. Random forests. Neural nets.
 
 ### R Programming
 *2016\. Johns Hopkins University.*
