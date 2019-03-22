@@ -94,4 +94,5 @@ disqus_shortname: edloginova
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 tagline:             natural language processing & educational data mining
+url:                 http://edloginova.github.io
 baseurl:             ""
