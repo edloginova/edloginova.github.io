@@ -9,7 +9,7 @@ order: 2
 
 **Human languages:** English (IELTS 8/10), Russian (native), Dutch (A1 completed, A2 in progress).
 
-**Other skills:** Linux, NLTK, Stanford CoreNLP, MySQL, MongoDB, Whoosh, PyTorch, Jupyter Notebook, LaTeX, Git, Bootstrap, Flask, HTML, CSS, Javascript
+**Other skills:** NLTK, Stanford CoreNLP, MySQL, MongoDB, Whoosh, Keras, PyTorch, Jupyter Notebook, LaTeX, Git, Linux, Bootstrap, Flask, HTML, CSS, Javascript
 		
 ## <i class="fa fa-wrench"></i> Experience
 		
