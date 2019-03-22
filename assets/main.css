@@ -4,9 +4,6 @@
 
 @import "{{ site.theme }}";
 
-
 a:hover {
-	color: white;
-	background-color: #39CCCC;
-	text-decoration: none !important;
+background-color: red;
 }
