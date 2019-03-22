@@ -8,9 +8,8 @@ order: 3
 
 ### PhD
 *2018 - now. [University of Ghent](https://www.ugent.be/eb/mio/en/research/dataanalytics)*
-Data Analytics team. Supervisor: [Prof Dr Dries Benoit](https://telefoonboek.ugent.be/en/people/802000080565).
+Data Analytics team. Educational data mining and learning analytics.  A teaching assistant for the course "[Data Mining](https://studiegids.ugent.be/2018/NL/studiefiches/F000759.pdf)". Supervisor: [Prof Dr Dries Benoit](https://telefoonboek.ugent.be/en/people/802000080565).
 
-Educational data mining and learning analytics.  A teaching assistant for the course "[Data Mining](https://studiegids.ugent.be/2018/NL/studiefiches/F000759.pdf)".
 
 * Akimov, Mikhail, Ekaterina Loginova, and Maxim Musin. [A Graph-Based Approach for Learner-Tailored Teaching of Korean Grammar Constructions](https://ieeexplore.ieee.org/document/8637395). 2018 IEEE International Conference on Data Mining Workshops (ICDMW). IEEE, 2018.
 
