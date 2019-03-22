@@ -70,14 +70,6 @@ header_pages:
  - publications.md
  - about.md
 # Footer settings
-minima:
- social_links:
-    twitter: joealato
-    github:  edloginova
-    facebook: jekaterina.ld
-    instagram: joealato
-    linkedin: edloginova
-    telegram: edloginova
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
 disqus_shortname: edloginova
@@ -88,3 +80,12 @@ permalink:           pretty
 tagline:             natural language processing & educational data mining
 url:                 http://edloginova.github.io
 baseurl:             ""
+
+minima:
+ social_links:
+    twitter: joealato
+    github:  edloginova
+    facebook: jekaterina.ld
+    instagram: joealato
+    linkedin: edloginova
+    telegram: edloginova
