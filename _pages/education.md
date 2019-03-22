@@ -8,6 +8,7 @@ order: 3
 
 ### PhD
 *2018 - now. [University of Ghent](https://www.ugent.be/eb/mio/en/research/dataanalytics)*
+
 Data Analytics team. Educational data mining and learning analytics.  A teaching assistant for the course "[Data Mining](https://studiegids.ugent.be/2018/NL/studiefiches/F000759.pdf)". Supervisor: [Prof Dr Dries Benoit](https://telefoonboek.ugent.be/en/people/802000080565).
 
 
