@@ -5,9 +5,9 @@ order: 2
 ---
 ## <i class="fa fa-lightbulb"></i> Skills
 
-**Programming Languages:** Python, Matlab, R. Elementary: Java (Course course), C++ (2 years in Bachelor).
+**Programming languages:** Python, Matlab, R. Elementary: Java (Coursera course), C++ (2 years in Bachelor).
 
-**Human languages:** English (IELTS 8/10), Russian (native), Dutch (A1 completed, A2 in progress).
+**Human languages:** English (IELTS 8/10), Dutch (A1 completed, A2 in progress), Russian (native).
 
 **Other skills:** NLTK, Stanford CoreNLP, MySQL, MongoDB, Whoosh, Keras, PyTorch, Jupyter Notebook, LaTeX, Git, Linux, Bootstrap, Flask, HTML, CSS, Javascript
 		
