@@ -4,6 +4,11 @@
 
 @import "{{ site.theme }}";
 
+a {
+color: #39CCCC;
+}
 a:hover {
-background-color: red;
+	color: white;
+background-color: #39CCCC;
+text-decoration: none; !important
 }
