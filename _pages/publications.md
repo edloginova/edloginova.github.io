@@ -3,7 +3,7 @@ title: "Papers"
 permalink: /papers/
 ---
 
-### <i class="fe fe-chevron-right"></i> A Graph-Based Approach for Learner-Tailored Teaching of Korean Grammar Constructions 
+### <i class="fa fa-chevron-right"></i> A Graph-Based Approach for Learner-Tailored Teaching of Korean Grammar Constructions 
 *Akimov, Mikhail, Ekaterina Loginova, and Maxim Musin. 2018 IEEE International Conference on Data Mining Workshops (ICDMW). IEEE, 2018.*
 
 [[pdf]](https://ieeexplore.ieee.org/document/8637395)
