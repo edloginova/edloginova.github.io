@@ -1,6 +1,7 @@
 ---
 title: "Work"
 permalink: /work/
+order: 2
 ---
 ## Skills
 
@@ -11,7 +12,7 @@ permalink: /work/
 **Other skills:** Linux, NLTK, Stanford CoreNLP, MySQL, MongoDB, Whoosh, PyTorch, Jupyter Notebook, LaTeX, Git, Bootstrap, Flask, HTML, CSS, Javascript
 			   
 ## Deep learning for Question Answering (QA)
-*Oct 2017 - Aug 2018. [DFKI MLT](https://www.dfki.de/web/research/mlt)*
+*Oct 2017 - Aug 2018. [DFKI MLT](https://www.dfki.de/en/web/research/research-departments-and-groups/multilinguality-and-language-technology/)*
 
 I worked on non-factoid multilingual (including code-mixed) QA. I have also developed an interactive prototype that demonstrates inner representations of an LSTM model for a better understanding of the network decision making process.
 
