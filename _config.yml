@@ -62,6 +62,7 @@ plugins:
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
