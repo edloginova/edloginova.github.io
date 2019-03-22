@@ -4,7 +4,7 @@ permalink: /about/
 order: 5
 ---
 
-![alt text](https://miro.medium.com/fit/c/240/240/1*wjCESqwXSODv21OTsomBqQ.jpeg)
+![alt text](/assets/img/photo.png)
 
 # <i class="fa fa-headphones"></i> Music
 
