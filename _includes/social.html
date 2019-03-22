@@ -17,4 +17,8 @@
   {%- if social.microdotblog -%}<li><a rel="me" href="https://micro.blog/{{ social.microdotblog | cgi_escape | escape }}" title="{{ social.microdotblog | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#microdotblog' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if social.googleplus -%}<li><a href="https://plus.google.com/{{ social.googleplus | escape }}" title="{{ social.googleplus | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#googleplus' | relative_url }}"></use></svg></a></li>{%- endif -%}
   {%- if social.rss -%}<li><a href="{{ 'feed.xml' | relative_url }}" title="{{ social.rss | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use></svg></a></li>{%- endif -%}
+  
+	{% for item in site.social_research %}
+	  <li><a href="{{ item.link }}" target="_blank"><i class="ai ai-{{ item.icon }}" aria-hidden="true"></i></a></li>
+	{% endfor %}
 </ul>
