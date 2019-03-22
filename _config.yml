@@ -63,7 +63,14 @@ whitelist:
   - jekyll-feed
   - jemoji
 
+header_pages:
+ - home.md
+ - work.md
+ - education.md
+ - publications.md
+ - about.md
 # Footer settings
+minima:
  social_links:
     twitter: joealato
     github:  edloginova
