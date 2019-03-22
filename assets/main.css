@@ -2,13 +2,13 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-@import "{{ site.theme }}";
+@import "{{ site.theme }}"
 
 a {
-color: #39CCCC;
+	color: #39CCCC;
 }
 a:hover {
 	color: white;
-background-color: #39CCCC;
-text-decoration: none; !important
+	background-color: #39CCCC;
+	text-decoration: none !important;
 }
