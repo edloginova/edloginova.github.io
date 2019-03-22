@@ -3,7 +3,6 @@ highlighter: pygments
 title: Kate Loginova
 email: ekaterina.d.loginova@gmail.com
 description: "I am Kate, a PhD student in educational data mining at Ghent University. I also work on natural language processing and digital journalism. If you want to collaborate, let me know!"
-skills: "Artificial Intelligence - Natural Language Processing - Data Science"
 meta_author: Ekaterina Loginova
 theme: minima
 # Contact form:
@@ -63,12 +62,6 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-header_pages:
- - home.md
- - work.md
- - education.md
- - publications.md
- - about.md
 # Footer settings
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
@@ -77,7 +70,6 @@ disqus_shortname: edloginova
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-tagline:             natural language processing & educational data mining
 url:                 http://edloginova.github.io
 baseurl:             ""
 
