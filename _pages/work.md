@@ -3,15 +3,17 @@ title: "Work"
 permalink: /work/
 order: 2
 ---
-## Skills
+## <i class="fa fa-lightbulb"></i> Skills
 
 **Programming Languages:** Python, Matlab, R. Elementary: Java (Course course), C++ (2 years in Bachelor).
 
 **Human languages:** English (IELTS 8/10), Russian (native), Dutch (A1 completed, A2 in progress).
 
 **Other skills:** Linux, NLTK, Stanford CoreNLP, MySQL, MongoDB, Whoosh, PyTorch, Jupyter Notebook, LaTeX, Git, Bootstrap, Flask, HTML, CSS, Javascript
-			   
-## Deep learning for Question Answering (QA)
+		
+## <i class="fa fa-lightbulb"></i> Experience
+		
+### Deep learning for Question Answering (QA)
 *Oct 2017 - Aug 2018. [DFKI MLT](https://www.dfki.de/en/web/research/research-departments-and-groups/multilinguality-and-language-technology/)*
 
 I worked on non-factoid multilingual (including code-mixed) QA. I have also developed an interactive prototype that demonstrates inner representations of an LSTM model for a better understanding of the network decision making process.
@@ -22,7 +24,7 @@ I worked on non-factoid multilingual (including code-mixed) QA. I have also deve
 
 * Ekaterina Loginova, Stalin Varanasi, Günter Neumann. [Towards Multilingual Neural Question Answering](https://link.springer.com/chapter/10.1007/978-3-030-00063-9_26). 1st International Workshop on Artificial Intelligence for Question Answering, Communications in Computer and Information Science (Springer). Budapest, Hungary, 2018
 
-## Internship
+### Master Thesis Internship
 *Feb - June 2017. [Vrije Universiteit Brussel](https://ai.vub.ac.be/)*
 
 I have
@@ -31,20 +33,20 @@ I have
 * trained machine learning models (Support Vector Machines, Maximum Entropy, Naive Bayes)
 * compared existing sentiment analysis tools (Stanford CoreNLP, Vader, Pattern, Polyglot)
 
-## Teaching Assistant
+### Teaching Assistant
 *Apr - Jul 2015. [Higher School of Economics](https://cs.hse.ru/en)*
 
 Course [Social Network Analysis](https://cs.hse.ru/ai/magolego/sna) (in English). 
 
 **Topics:** graph analysis; with the use of software for creating a graph of connections extracted from the **social network** account. **Responsibilities:** I compiled an up-to-date list of resources and prepared handouts for **exercise sessions in R**. I have also checked solutions and provided feedback to help students.			   
 
-## Summer Internship
+### Summer Internship
 
 *2013. [Higher School of Economics](https://cs.hse.ru/en)*
 
-Project VisualMath: I have implemented interactive **Javascript visualizations** of interesting examples for **calculus** theorems. The resulting illustrations were actively used on the lectures and have been included in a published version of lecture notes.	
+Project **VisualMath**: I have implemented interactive **Javascript visualizations** of interesting examples for **calculus** theorems. The resulting illustrations were actively used on the lectures and have been included in a published version of lecture notes.	
 
-## Tutoring
+### Tutoring
 
 *2013 - now.*
 
