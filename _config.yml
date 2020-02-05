@@ -2,7 +2,7 @@
 highlighter: pygments
 title: Kate Loginova
 email: ekaterina.d.loginova@gmail.com
-description: "I am Kate, a PhD student in educational data mining at Ghent University. I also work on natural language processing and digital journalism. If you want to collaborate, let me know!"
+description: "I am Kate, a PhD student in natural language processing and educational data mining at Ghent University. If you want to collaborate, let me know!"
 meta_author: Ekaterina Loginova
 theme: minima
 # Contact form:
@@ -75,7 +75,6 @@ baseurl:             ""
 
 minima:
  social_links:
-    twitter: joealato
     github:  edloginova
     facebook: jekaterina.ld
     linkedin: edloginova
