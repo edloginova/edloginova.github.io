@@ -20,8 +20,6 @@ order: 3
 
 **Total hours:** 39:19 (24:35 coding)
 
-![915-03-20](https://i.ibb.co/MhW1DyC/2020-03-17-09-04-52.png)
-
 **15 March**
 - prototype improvement: increased text analysis speed (linguistic preprocessing, difficulty scores) by optimising code, simplified navigation
 
