@@ -7,9 +7,11 @@ order: 3
 
 **18 March**
 - a call with Mr Ronny Salden from VDAB to discuss Biotop (higher education) 
+- sending a project request to SkyEng
 
 **17 March**
 - registered for [LAK 2020](https://lak20.solaresearch.org/) - the conference will take place online, 23-27 March
+- prototype debugging
 
 **16 March**
 - prototype improvement: added paragraph level, implemented more flexible and optimised markup for exercise generation/dictionary highlights
