@@ -1,4 +1,5 @@
 ---
+title: 
 hide-header-link: True
 permalink: /progress/
 order: 3
