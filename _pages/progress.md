@@ -46,4 +46,4 @@ order: 3
 - prototype improvement: prepared templates and data structure for VDAB content
 
 **5 March**
-- published crypto dataset online: https://edloginova.github.io/cryptodata/ (the access to the files is limited until paper acceptance)
+- published crypto dataset online: [cryptodata](https://edloginova.github.io/cryptodata/) (the access to the files is limited until paper acceptance)
