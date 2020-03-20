@@ -6,9 +6,14 @@ order: 3
 ---
 ## Week 2. 16 - 22 March 2020.
 
-**18 March**
-- a call with Mr Ronny Salden from VDAB to discuss Biotop (higher education) 
+**20 March**
 - sending a project request to SkyEng
+
+**19 March**
+- prototype improvement: debugging, prepared files for additional fill-in exercises, switched translation to graph requests, extracted main words per paragraph
+
+**18 March**
+- a call with Mr Ronny Salden from VDAB to discuss Biotoop (higher education) 
 
 **17 March**
 - registered for [LAK 2020](https://lak20.solaresearch.org/) - the conference will take place online, 23-27 March
