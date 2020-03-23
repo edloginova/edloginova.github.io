@@ -4,10 +4,21 @@ hide-header-link: True
 permalink: /progress/
 order: 3
 ---
+
+## Week 3. 23 - 29 March 2020.
+
+**25 - 27 March**
+- virtual conference LAK 2020
+
+**23 March**
+- sending a project request to SkyEng
+
 ## Week 2. 16 - 22 March 2020.
 
+**Total hours:** 37:27 (31:55 coding)
+
 **20 March**
-- sending a project request to SkyEng
+- launched updated prototype
 
 **19 March**
 - prototype improvement: debugging, prepared files for additional fill-in exercises, switched translation to graph requests, extracted main words per paragraph
