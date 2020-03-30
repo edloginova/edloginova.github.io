@@ -7,6 +7,11 @@ order: 3
 
 ## Week 3. 23 - 29 March 2020.
 
+**Total hours:** 29:04
+
+**28 - 29 March**
+- preparing FWO project proposal
+
 **25 - 27 March**
 - virtual conference LAK 2020
 
