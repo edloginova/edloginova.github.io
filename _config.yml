@@ -76,7 +76,6 @@ baseurl:             ""
 minima:
  social_links:
     github:  edloginova
-    facebook: jekaterina.ld
     linkedin: edloginova
     telegram: edloginova
     
