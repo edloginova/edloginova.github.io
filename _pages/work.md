@@ -14,7 +14,7 @@ order: 2
 ## <i class="fa fa-wrench"></i> Experience
 		
 ### Senior NLP Engineer
-*March 2021 - now. [Faktion](https://www.faktion.com/)
+*March 2021 - now. [Faktion](https://www.faktion.com/)*
 
 ### Deep learning for Question Answering (QA)
 *October 2017 - August 2018. [DFKI MLT](https://www.dfki.de/en/web/research/research-departments-and-groups/multilinguality-and-language-technology/)*
