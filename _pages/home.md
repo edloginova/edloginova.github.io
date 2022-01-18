@@ -14,5 +14,7 @@ I am developing an application for personalised language learning. If you are in
  
 **Interests:** natural language processing (sentiment analysis, information extraction), language learning technology, neural networks interpretability, STEM education, digital journalism.
 
+An overview post on bias in NLP coming up soon!
+
 
 
