@@ -7,12 +7,15 @@ order: 2
 
 **Programming languages:** Python, Matlab, R. Elementary: Java (Coursera course), C++ (2 years in Bachelor).
 
-**Human languages:** English (IELTS 8/10), Dutch (A1 completed, A2 in progress), Russian (native).
+**Human languages:** English (IELTS 8/10), Dutch (A2 completed, B1 in progress), Russian (native).
 
-**Other skills:** NLTK, Stanford CoreNLP, MySQL, MongoDB, Whoosh, Keras, PyTorch, Jupyter Notebook, LaTeX, Git, Linux, Bootstrap, Flask, HTML, CSS, Javascript
+**Other skills:** NLTK, Stanford CoreNLP, Stanza, MySQL, MongoDB, neo4j, ElasticSearch, Whoosh, Keras, PyTorch, Jupyter Notebook, LaTeX, Git, Linux, Bootstrap, Flask, HTML, CSS, Javascript
 		
 ## <i class="fa fa-wrench"></i> Experience
 		
+### Senior NLP Engineer
+*March 2021 - now. [Faktion](https://www.faktion.com/)
+
 ### Deep learning for Question Answering (QA)
 *October 2017 - August 2018. [DFKI MLT](https://www.dfki.de/en/web/research/research-departments-and-groups/multilinguality-and-language-technology/)*
 

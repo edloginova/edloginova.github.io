@@ -6,25 +6,27 @@ order: 5
 
 ![alt text](/assets/img/photo.png)
 
+Hobbies: creative writing, digital art, photography. 
+
+### <i class="fa fa-bookmark"></i> Books
+
+Arthuriana, Mark Twain, Terry Pratchett, Max Fry, Jerome K. Jerome, "The Fall", "The Gods Themselves", "Roadside Picnic", "Hard to Be a God", "Flowers for Algernon", "A Woman's Portrait", "Notes of a Young Doctor", "The Catcher in the Rye", "All Quiet on the Western Front", "Middle Sex", "White Guard"
+
 ### <i class="fa fa-headphones"></i> Music
 
 alternative, rock, indie, grunge, punk-rock, folk-rock, rock-n-roll, The Amazing Devil, Dorothy, Editors, Miracle of Sound, The Baseballs, Shinedown, Garbage, The Vitamin String Quartet, Elvis Presley, Fool's Garden, Sin Shake Sin, Depeche Mode, Fall Out Boy, Panic! At The Disco, The Offspring, Linkin Park, Thousand Foot Krutch, Papa Roach, Dave Gahan, Мельница, Сплин, Наутилус Помпилиус, Пикник, Мумий Тролль, Хелависа, Канцлер Ги, Земфира, Вероника Долина, Башня Rowan
 
 ### <i class="fa fa-film"></i> Movies & Series
 
-The Fifth Element, Run Lola Run, Mean Guns, In Bruges, Maverick, Lock Stock and Two Smoking Barrels, Source Code, Moonrise Kingdom, The Guard, Once Upon a Time in Mexico, Cloud Atlas, Going Postal, Transcendence, Chocolat, District 9, Captain America: The Winter Soldier, Breakfast at Tiffany's, Девять дней одного года, Weekend at Bernie's
+movies: The Fifth Element, Source Code, Run Lola Run, Mean Guns, In Bruges, Maverick, Lock Stock and Two Smoking Barrels, Moonrise Kingdom, Once Upon a Time in Mexico, Cloud Atlas, Going Postal, Transcendence, Chocolat, District 9, Captain America: The Winter Soldier, Breakfast at Tiffany's, Девять дней одного года, Weekend at Bernie's
 
-The Road to Eldorado, How to Train Your Dragon, Jack et la mécanique du coeur, Inception, Song of the Sea, Shrek
+animation: The Road to Eldorado, How to Train Your Dragon, Jack et la mécanique du coeur, Inception, Song of the Sea, Shrek
 
-Gravity Falls, Downton Abbey, Adventure Time, The Musketeers, Everybody Hates Chris, Black Books, Lucifer, Altered Carbon, The Boys, The Crown
+series: Gravity Falls, Downton Abbey, Adventure Time, The Musketeers, Everybody Hates Chris, Black Books, Lucifer, Altered Carbon, The Boys, The Crown
 
 ### <i class="fa fa-gamepad"></i> Games
 
 Neverwinter Nights, Age of Empires, Lineage II, Warcraft III, Majesty 2, The Witcher 3
-
-### <i class="fa fa-bookmark"></i> Books
-
-Mark Twain, Terry Pratchett, Max Fry, Jerome K. Jerome, "The Fall", "The Gods Themselves", "Roadside Picnic", "Hard to Be a God", "Flowers for Algernon", "A Woman's Portrait", "Notes of a Young Doctor", "The Catcher in the Rye", "All Quiet on the Western Front", "Middle Sex", "White Guard"
 
 ### <i class="fa fa-quote-left"></i> Quotes
 

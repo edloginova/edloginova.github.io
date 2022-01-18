@@ -4,6 +4,22 @@ permalink: /papers/
 order: 4
 ---
 
+### <i class="fa fa-angle-double-right"></i> Towards the application of calibrated Transformers to the unsupervised estimation of question difficulty from text
+[[paper]](https://aclanthology.org/2021.ranlp-1.97/)
+*Loginova, Ekaterina, et al. “Towards the Application of Calibrated Transformers to the Unsupervised Estimation of Question Difficulty from Text.” Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021), edited by Ruslan Mitkov and Galia Angelova, INCOMA, 2021, pp. 846–55.
+Being able to accurately perform Question Difficulty Estimation (QDE) can improve the accuracy of students’ assessment and better their learning experience. Traditional approaches to QDE are either subjective or introduce a long delay before new questions can be used to assess students. Thus, recent work proposed machine learning-based approaches to overcome these limitations. They use questions of known difficulty to train models capable of inferring the difficulty of questions from their text. Once trained, they can be used to perform QDE of newly created questions. Existing approaches employ supervised models which are domain-dependent and require a large dataset of questions of known difficulty for training. Therefore, they cannot be used if such a dataset is not available ( for new courses on an e-learning platform). In this work, we experiment with the possibility of performing QDE from text in an unsupervised manner. Specifically, we use the uncertainty of calibrated question answering models as a proxy of human-perceived difficulty. Our experiments show promising results, suggesting that model uncertainty could be successfully leveraged to perform QDE from text, reducing both costs and elapsed time.
+
+### <i class="fa fa-angle-double-right"></i> Embedding Navigation Patterns for Student Performance Prediction
+*Loginova, Ekaterina, and Dries Benoit. “Embedding Navigation Patterns for Student Performance Prediction.” Proceedings of The 14th International Conference on Educational Data Mining (EDM 2021), edited by I-Han Hsiao et al., Educational Data Mining Society, 2021, pp. 391–99.
+[[presentation & paper]](http://bit.ly/2Yhk3xa)(https://educationaldatamining.org/EDM2021/virtual/poster_paper17.html)
+
+Predicting academic performance using trace data from learning management systems is a primary research topic in educational data mining. An important application is the identification of students at risk of failing the course or dropping out.However, most approaches utilise past grades, which are not always available and capture little of the student's learning strategy. The end-to-end models we implement predict whether a student will pass a course using only navigational patterns in a multimedia system, with the advantage of not requiring past grades.In experiments on a dataset containing coarse-grained action logs of more than 100,000 students participating in hundreds of short courses, we show that features extracted with recurrent neural networks outperform the traditional manually engineered ones.We propose two approaches to improve the performance further: a novel encoding scheme for trace data, which reflects the course structure while remaining flexible enough to accommodate previously unseen courses, and unsupervised embeddings obtained with an autoencoder. To provide insight into model behaviour, we incorporate attention mechanism. Clustering the vector representations of student behaviour that are produced by the proposed methods shows that distinct learning strategies specific to low- and high- achievers are extracted.
+
+### <i class="fa fa-angle-double-right"></i> Forecasting directional bitcoin price returns using aspect-based sentiment analysis on online text data
+*Loginova, Ekaterina, et al. “Forecasting Directional Bitcoin Price Returns Using Aspect-Based Sentiment Analysis on Online Text Data.” MACHINE LEARNING, 2021, doi:10.1007/s10994-021-06095-3.
+
+[[pdf]](https://link.springer.com/article/10.1007/s10994-021-06095-3)
+
 ### <i class="fa fa-angle-double-right"></i> A Graph-Based Approach for Learner-Tailored Teaching of Korean Grammar Constructions 
 *Akimov, Mikhail, Ekaterina Loginova, and Maxim Musin. 2018 IEEE International Conference on Data Mining Workshops (ICDMW). IEEE, 2018.*
 

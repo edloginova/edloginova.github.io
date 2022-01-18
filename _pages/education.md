@@ -9,11 +9,13 @@ order: 3
 ### PhD
 *2018 - now. [University of Ghent](https://www.ugent.be/eb/mio/en/research/dataanalytics)*
 
-Data Analytics team. Educational data mining, learning analytics and natural language processing.  A teaching assistant for the course "[Data Mining](https://studiegids.ugent.be/2018/NL/studiefiches/F000759.pdf)". Supervisor: [Prof Dr Dries Benoit](https://telefoonboek.ugent.be/en/people/802000080565).
+Data Analytics team. Educational data mining and natural language processing in a range of applications.  A teaching assistant for the course "[Data Mining](https://studiegids.ugent.be/2018/NL/studiefiches/F000759.pdf)" and Bayesian Statistics. Supervisor: [Prof Dr Dries Benoit](https://telefoonboek.ugent.be/en/people/802000080565).
 
-Participated in [Deep|Bayes](http://deepbayes.ru/) summer school on deep learning and Bayesian methods
+Participated in [Deep|Bayes](http://deepbayes.ru/) summer school on deep learning and Bayesian methods; also workshops on public speaking for research and online conferences such as LAK 2021. Collaborated with multiple industry partners and academics from other countries; prepared grant proposals (FWO, BOF). 
 
-
+* Loginova, Ekaterina, and Dries Benoit. “Embedding Navigation Patterns for Student Performance Prediction.” Proceedings of The 14th International Conference on Educational Data Mining (EDM 2021), edited by I-Han Hsiao et al., Educational Data Mining Society, 2021, pp. 391–99.
+* Loginova, Ekaterina, et al. “Towards the Application of Calibrated Transformers to the Unsupervised Estimation of Question Difficulty from Text.” Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021), edited by Ruslan Mitkov and Galia Angelova, INCOMA, 2021, pp. 846–55.
+* Loginova, Ekaterina, et al. “Forecasting Directional Bitcoin Price Returns Using Aspect-Based Sentiment Analysis on Online Text Data.” MACHINE LEARNING, 2021, doi:10.1007/s10994-021-06095-3.
 * Akimov, Mikhail, Ekaterina Loginova, and Maxim Musin. [A Graph-Based Approach for Learner-Tailored Teaching of Korean Grammar Constructions](https://ieeexplore.ieee.org/document/8637395). 2018 IEEE International Conference on Data Mining Workshops (ICDMW). IEEE, 2018.
 
 ### Advanced MSc in Artificial Intelligence
@@ -35,6 +37,10 @@ Average grade: 8/10. Ranked 10th out of 58 students.
 **Thesis:** Information Extraction from news (rule-based). Supervisor: [Prof Dr Elena I. Bolshakova](https://www.hse.ru/en/staff/eibolshakova/)
 
 ## <i class="fa fa-certificate"></i> Certificates
+
+### DeepLearning.AI TensorFlow Developer
+*2021\. DeepLearning.AI.*
+Grade: 98.5%.
 
 ### Probabilistic Graphical Models 1: Representation
 *2019\. Stanford University.*
