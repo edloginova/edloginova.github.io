@@ -4,6 +4,19 @@ permalink: /papers/
 order: 4
 ---
 
+### <i class="fa fa-angle-double-right"></i> Studies on advanced natural language processing representations and deep learning in decision making systems
+
+[[dissertation]](https://biblio.ugent.be/publication/8769989)
+
+### <i class="fa fa-angle-double-right"></i> Structural information in mathematical formulas for exercise difficulty prediction: a comparison of NLP representations
+
+*Loginova, Ekaterina, Dries Benoit. “Structural information in mathematical formulas for exercise difficulty prediction: a comparison of NLP representations.” Proceedings of the 17th Workshop on Innovative Use of NLP for Building Educational Applications (BEA 2022).*
+
+[[paper]](https://aclanthology.org/2022.bea-1.14)
+
+To tailor a learning system to the student’s level and needs, we must consider the characteristics of the learning content, such as its difficulty. While natural language processing allows us to represent text efficiently, the meaningful representation of mathematical formulas in an educational context is still understudied. This paper adopts structural embeddings as a possible way to bridge this gap. Our experiments validate the approach using publicly available datasets to show that incorporating syntactic information can improve performance in predicting the exercise difficulty.
+
+
 ### <i class="fa fa-angle-double-right"></i> Towards the application of calibrated Transformers to the unsupervised estimation of question difficulty from text
 
 *Loginova, Ekaterina, et al. “Towards the Application of Calibrated Transformers to the Unsupervised Estimation of Question Difficulty from Text.” Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP 2021), edited by Ruslan Mitkov and Galia Angelova, INCOMA, 2021, pp. 846–55.*

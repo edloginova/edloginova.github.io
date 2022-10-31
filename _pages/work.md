@@ -5,16 +5,22 @@ order: 2
 ---
 ## <i class="fa fa-lightbulb"></i> Skills
 
-**Programming languages:** Python, Matlab, R. Elementary: Java (Coursera course), C++ (2 years in Bachelor).
+**Programming languages:** Python (academic and industrial projects). Matlab, R (academic projects). Elementary: Java (Coursera course), C++ (2 years in Bachelor).
 
-**Human languages:** English (IELTS 8/10), Dutch (A2 completed, B1 in progress), Russian (native).
+**Human languages:** English (IELTS 8/10), Dutch (B1 completed), Russian (native).
 
-**Other skills:** NLTK, Stanford CoreNLP, Stanza, MySQL, MongoDB, neo4j, ElasticSearch, Whoosh, Keras, PyTorch, Jupyter Notebook, LaTeX, Git, Linux, Bootstrap, Flask, HTML, CSS, Javascript
+**Other skills:** NLTK, HuggingFace, Stanford CoreNLP, Stanza. MySQL, MongoDB, neo4j, ElasticSearch, Whoosh. Keras, PyTorch. Jupyter Notebook. LaTeX, Git, Bootstrap, Flask, HTML, CSS, Javascript.
 		
 ## <i class="fa fa-wrench"></i> Experience
 		
 ### Senior NLP Engineer
-*March 2021 - now. [Faktion](https://www.faktion.com/)*
+*March 2021 - October 2022. [Faktion](https://www.faktion.com/)*
+
+Semantic search, topic modelling, word sense disambiguation, query expansion and correction & text classification. (Dutch, government documents). Collected feedback from users, carried out research and development, implemented a demo frontend, maintained the backend, prepared microservices API which were incorporated into an analytics platform. 
+
+Text quality assessment: readability, fluency, coherence. (English, legal documents.) Research and development.
+
+Knowledge sharing sessions on Bayesian deep learning and graph deep learning.
 
 ### Deep learning for Question Answering (QA)
 *October 2017 - August 2018. [DFKI MLT](https://www.dfki.de/en/web/research/research-departments-and-groups/multilinguality-and-language-technology/)*
