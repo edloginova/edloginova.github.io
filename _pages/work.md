@@ -13,6 +13,11 @@ order: 2
 		
 ## <i class="fa fa-wrench"></i> Experience
 		
+### ML and NLP Engineer
+*November 2022 - now. [Dedalus](https://www.dedalus.com/global/en/)*
+
+clinalytix team. Information extraction and text classification for multilingual clinical texts.
+
 ### Senior NLP Engineer
 *March 2021 - October 2022. [Faktion](https://www.faktion.com/)*
 

@@ -30,7 +30,7 @@ series: Gravity Falls, The Musketeers, Everybody Hates Chris, Black Books, Alter
 
 ### <i class="fa fa-gamepad"></i> Games
 
-Neverwinter Nights, Age of Empires, Lineage II, Warcraft III, Majesty 2, The Witcher 3
+Neverwinter Nights, Age of Empires, Lineage II, Warcraft III, Majesty 2, The Witcher 3, Heroes of Might and Magic III
 
 ### <i class="fa fa-quote-left"></i> Quotes
 

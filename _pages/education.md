@@ -7,7 +7,9 @@ order: 3
 ## <i class="fa fa-graduation-cap"></i> Degrees
 
 ### PhD
-*2018 - now. [University of Ghent](https://www.ugent.be/eb/mio/en/research/dataanalytics)*
+*2018 - 2022. [University of Ghent](https://www.ugent.be/eb/mio/en/research/dataanalytics)*
+
+Thesis: "[Studies on advanced natural language processing representations and deep learning in decision making systems](https://biblio.ugent.be/publication/8769989)".
 
 Data Analytics team. Educational data mining and natural language processing in a range of applications.  A teaching assistant for the course "[Data Mining](https://studiegids.ugent.be/2018/NL/studiefiches/F000759.pdf)" and Bayesian Statistics. Supervisor: [Prof Dr Dries Benoit](https://telefoonboek.ugent.be/en/people/802000080565). Participated in [Deep Bayes](http://deepbayes.ru/) summer school on deep learning and Bayesian methods; also workshops on public speaking for research and online conferences such as LAK 2021. Collaborated with multiple industry partners and academics from other countries; prepared grant proposals (FWO, BOF). 
 
