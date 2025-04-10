@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c9afc7d.css",
+    "main.js": "/static/js/main.a4c8f82e.js",
+    "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.ec9d8e28.chunk.js": "/static/js/64.ec9d8e28.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.0541bc04.chunk.js": "/static/js/769.0541bc04.chunk.js",
+    "static/media/resume.pdf": "/static/media/resume.f545d72198eda7f1171b.pdf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/logo_hse.png": "/static/media/logo_hse.7c041ec1c41b5dc4ab9b.png",
+    "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/logo_vub.png": "/static/media/logo_vub.1444345b00d0fa638609.png",
+    "static/media/logo_deeplearningai.png": "/static/media/logo_deeplearningai.39fb01566a6f9535c4c8.png",
+    "static/media/logo_ghent.png": "/static/media/logo_ghent.de63244acf56c166f0ac.png",
+    "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/logo_kuleuven.png": "/static/media/logo_kuleuven.de93a59b424483f38bd0.png",
+    "static/media/logo_jhu.png": "/static/media/logo_jhu.5f769a5846bdc49ed9d0.png",
+    "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/logo_stanford.webp": "/static/media/logo_stanford.23dd0a07e01904b8e0d8.webp",
+    "static/media/logo_demhack.png": "/static/media/logo_demhack.00c46525526f3ecc8c6e.png",
+    "static/media/logo_kaggle.png": "/static/media/logo_kaggle.2b4bd2a7413655a77189.png",
+    "static/media/logo_faktion.png": "/static/media/logo_faktion.42c15200a1df9eb187f6.png",
+    "static/media/logo_tst.png": "/static/media/logo_tst.857b60eaa0e8abc44717.png",
+    "static/media/logo_dfki.png": "/static/media/logo_dfki.8e76f09db18937ff22e5.png",
+    "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/index.html",
+    "static/media/logo_uchido.webp": "/static/media/logo_uchido.e86c68a76f03ba6f420e.webp",
+    "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.9c9afc7d.css.map": "/static/css/main.9c9afc7d.css.map",
+    "main.a4c8f82e.js.map": "/static/js/main.a4c8f82e.js.map",
+    "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
+    "64.ec9d8e28.chunk.js.map": "/static/js/64.ec9d8e28.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
+    "769.0541bc04.chunk.js.map": "/static/js/769.0541bc04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c9afc7d.css",
+    "static/js/main.a4c8f82e.js"
+  ]
+}
