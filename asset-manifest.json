@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9c9afc7d.css",
-    "main.js": "/static/js/main.3e3c7546.js",
+    "main.js": "/static/js/main.10edd150.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.ec9d8e28.chunk.js": "/static/js/64.ec9d8e28.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -10,7 +10,6 @@
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/logo_hse.png": "/static/media/logo_hse.7c041ec1c41b5dc4ab9b.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
-    "static/media/logo_vub.png": "/static/media/logo_vub.1444345b00d0fa638609.png",
     "static/media/logo_deeplearningai.png": "/static/media/logo_deeplearningai.39fb01566a6f9535c4c8.png",
     "static/media/logo_ghent.png": "/static/media/logo_ghent.de63244acf56c166f0ac.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
@@ -26,10 +25,9 @@
     "static/media/logo_dfki.png": "/static/media/logo_dfki.8e76f09db18937ff22e5.png",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/index.html",
-    "static/media/logo_uchido.webp": "/static/media/logo_uchido.e86c68a76f03ba6f420e.webp",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9c9afc7d.css.map": "/static/css/main.9c9afc7d.css.map",
-    "main.3e3c7546.js.map": "/static/js/main.3e3c7546.js.map",
+    "main.10edd150.js.map": "/static/js/main.10edd150.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.ec9d8e28.chunk.js.map": "/static/js/64.ec9d8e28.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -37,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.9c9afc7d.css",
-    "static/js/main.3e3c7546.js"
+    "static/js/main.10edd150.js"
   ]
 }
