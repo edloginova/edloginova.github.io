@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9c9afc7d.css",
-    "main.js": "/static/js/main.84dddd2c.js",
+    "main.js": "/static/js/main.97744325.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.ec9d8e28.chunk.js": "/static/js/64.ec9d8e28.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
@@ -20,14 +20,14 @@
     "static/media/logo_stanford.webp": "/static/media/logo_stanford.23dd0a07e01904b8e0d8.webp",
     "static/media/logo_demhack.png": "/static/media/logo_demhack.00c46525526f3ecc8c6e.png",
     "static/media/logo_kaggle.png": "/static/media/logo_kaggle.2b4bd2a7413655a77189.png",
-    "static/media/logo_faktion.png": "/static/media/logo_faktion.42c15200a1df9eb187f6.png",
     "static/media/logo_tst.png": "/static/media/logo_tst.857b60eaa0e8abc44717.png",
     "static/media/logo_dfki.png": "/static/media/logo_dfki.8e76f09db18937ff22e5.png",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/logo_dedalus.webp": "/static/media/logo_dedalus.335d4e47c37ba5b995c0.webp",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9c9afc7d.css.map": "/static/css/main.9c9afc7d.css.map",
-    "main.84dddd2c.js.map": "/static/js/main.84dddd2c.js.map",
+    "main.97744325.js.map": "/static/js/main.97744325.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.ec9d8e28.chunk.js.map": "/static/js/64.ec9d8e28.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
@@ -35,6 +35,6 @@
   },
   "entrypoints": [
     "static/css/main.9c9afc7d.css",
-    "static/js/main.84dddd2c.js"
+    "static/js/main.97744325.js"
   ]
 }
