@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.9c9afc7d.css",
-    "main.js": "/static/js/main.1dba55b5.js",
+    "main.js": "/static/js/main.3e3c7546.js",
     "static/css/64.bba8fa55.chunk.css": "/static/css/64.bba8fa55.chunk.css",
     "static/js/64.ec9d8e28.chunk.js": "/static/js/64.ec9d8e28.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.0541bc04.chunk.js": "/static/js/769.0541bc04.chunk.js",
+    "static/js/769.989b57ef.chunk.js": "/static/js/769.989b57ef.chunk.js",
     "static/media/resume.pdf": "/static/media/resume.f545d72198eda7f1171b.pdf",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/logo_hse.png": "/static/media/logo_hse.7c041ec1c41b5dc4ab9b.png",
@@ -29,14 +29,14 @@
     "static/media/logo_uchido.webp": "/static/media/logo_uchido.e86c68a76f03ba6f420e.webp",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.9c9afc7d.css.map": "/static/css/main.9c9afc7d.css.map",
-    "main.1dba55b5.js.map": "/static/js/main.1dba55b5.js.map",
+    "main.3e3c7546.js.map": "/static/js/main.3e3c7546.js.map",
     "64.bba8fa55.chunk.css.map": "/static/css/64.bba8fa55.chunk.css.map",
     "64.ec9d8e28.chunk.js.map": "/static/js/64.ec9d8e28.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/static/css/769.b3cbb36b.chunk.css.map",
-    "769.0541bc04.chunk.js.map": "/static/js/769.0541bc04.chunk.js.map"
+    "769.989b57ef.chunk.js.map": "/static/js/769.989b57ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c9afc7d.css",
-    "static/js/main.1dba55b5.js"
+    "static/js/main.3e3c7546.js"
   ]
 }
