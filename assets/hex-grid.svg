@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="180" viewBox="0 0 208 180"><g fill="none" stroke="#b4f6e7" stroke-width="1" opacity=".48">
+<path d="M52 0 104 30v60l-52 30L0 90V30Z"/>
+<path d="M156 0 208 30v60l-52 30-52-30V30Z"/>
+<path d="M104 90 156 120v60l-52 30-52-30v-60Z"/>
+<path d="M0 90 52 120v60L0 210-52 180v-60Z"/>
+<path d="M208 90 260 120v60l-52 30-52-30v-60Z"/>
+</g></svg>
