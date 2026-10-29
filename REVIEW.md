@@ -1,6 +1,10 @@
 # Review candidate — 29 October 2026
 
-Status: implemented and checked locally; no public push or deployment.
+Status: implemented, checked locally and approved by the owner for publication
+on 29 October 2026. The approved implementation commit is
+`bf5f3d746e0bb527053c4eb5760c52f0086c577d`; the subsequent approval-record commit
+changes documentation only. Check the GitHub Pages build for live deployment
+status rather than treating this approval record as deployment proof.
 
 ## Changes
 
@@ -67,7 +71,8 @@ already available.
 
 ## Publication gate
 
-Owner review of the new photo placements and factual copy remains outstanding.
-Do not push the feature branch publicly until that review is approved. Then use
-the existing Pages branch, check its build and visit the live pages before
-reporting publication. Keep the original backup branch intact.
+The owner approved the new photo placements, factual copy and publication in the
+continuation chat on 29 October 2026. Publish the approved candidate through the
+existing `master` Pages branch, check its build and visit the live pages before
+reporting publication. Keep the original backup branch intact. Any future new
+photo selection still requires owner approval under `AGENTS.md`.
